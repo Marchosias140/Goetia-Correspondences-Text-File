@@ -1,6 +1,6 @@
 # Goetia-Correspondences-Text-File
 
-Support me so I can buy food: paypal.me/DarkEagle23
+Support me so I can keep sharing code!: paypal.me/DarkEagle23
 
 ADDED THE FILES TO MAKE THE LIST WORK AS A FORTUNE LIBRARY
 
