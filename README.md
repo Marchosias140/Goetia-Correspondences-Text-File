@@ -1,9 +1,23 @@
 # Goetia-Correspondences-Text-File
 
-Support me so I can keep sharing code!: paypal.me/DarkEagle23
+Goetia spirits info for the Fortune app.
 
-ADDED THE FILES TO MAKE THE LIST WORK AS A FORTUNE LIBRARY
+```sudo dnf install fortune```
 
-A text file featuring simple correspondences for the 72 Ars Goetia spirits, useful for random quote generation, lorebooks,  quick reference for projects, etc.
+Copy the files to the corresponding directory
 
-The information within the file will be probably expanded.
+``` sudo cp goetia goetia.dat /usr/share/games/fortune ```
+
+Then, use the following command in order to check if it worked:
+
+``` fortune -f ```
+
+If you want to see only quotes from the bookofthelaw file, use this command:
+
+ ``` fortune goetia ``` 
+
+You can also use Cowsay
+
+```sudo dnf install cowsay ```
+
+``` fortune goetia | cowsay ```
